@@ -5,7 +5,7 @@
   "homepage": "https://stocks-af048.web.app/",
   "dependencies": {
     "@firebase/app": "^0.6.14",
-    "@firebase/performance": "^0.2.37",
+    "@firebase/performance": "^0.6.4",
     "chart.js": "^2.9.3",
     "chartjs-plugin-annotation": "^0.5.7",
     "firebase": "^8.2.6",
